@@ -1,7 +1,7 @@
 # Robot-Hand
 
 **(Optional: Add a cool GIF or image of the project working here!)**
-<!-- ![Demo GIF](./docs/demo.gif) -->
+<!-- ![Demo GIF](./demo.gif) -->
 
 ## Description
 
