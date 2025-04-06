@@ -60,7 +60,7 @@ A Python project that uses OpenCV and MediaPipe to detect and track the joints o
 
 4.  **Upload Arduino Sketch:**
     *   Open the Arduino IDE.
-    *   Open the `.ino` file provided in this repository (`[Your_Arduino_Sketch_Name].ino`).
+    *   Open the `.ino` file provided in this repository (`Index_Finger_Servo_Arduino.ino`).
     *   Select the correct Board and Port under the `Tools` menu.
     *   Upload the sketch to your Arduino.
 
