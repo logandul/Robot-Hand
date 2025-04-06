@@ -1,6 +1,5 @@
 # Robot-Hand
 
-**(Optional: Add a cool GIF or image of the project working here!)**
 ![Demo GIF](./demo.gif)
 
 ## Description
