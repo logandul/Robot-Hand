@@ -102,7 +102,6 @@ A Python project that uses OpenCV and MediaPipe to detect and track the joints o
 *   [ ] Implement smoothing algorithms for less jittery servo movement.
 *   [ ] Develop a simple GUI instead of just the OpenCV window.
 *   [ ] Explore wireless communication (e.g., Bluetooth, ESP-NOW) instead of USB Serial.
-*   [ ] Add gesture recognition to trigger specific actions.
 *   [ ] Improve calibration process (e.g., interactive calibration).
 
 ## License
