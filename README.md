@@ -18,10 +18,10 @@ A Python project that uses OpenCV and MediaPipe to detect and track the joints o
 
 *   Computer with Python installed
 *   Webcam
-*   Arduino (e.g., Arduino Uno, Nano, ESP32)
-*   3 x Servo Motors (Standard hobby servos like SG90 or MG996R are common)
+*   Arduino
+*   3 x Servo Motors
 *   Jumper Wires
-*   Breadboard (Optional, but recommended)
+*   Breadboard
 *   USB Cable (for Arduino)
 *   **Important:** External 5V Power Supply for Servos (Recommended, especially for >1-2 small servos, to avoid overloading the Arduino)
 
